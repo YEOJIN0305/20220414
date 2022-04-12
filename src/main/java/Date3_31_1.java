@@ -8,10 +8,10 @@ public class Date3_31_1 {//삼각형 별찍기
                 } else {
                     System.out.print("*");
                 }
-            }
+            } System.out.println();
+            inc++;
+            dec--;
         }
-        System.out.println();
-        inc++;
-        dec--;
+
     }
 }
