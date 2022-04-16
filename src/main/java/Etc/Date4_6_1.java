@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;
 
 public class Date4_6_1 {//윤년 구하기/윤년일때 1, 아닐 때 0을 출력

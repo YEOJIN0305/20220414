@@ -1,3 +1,5 @@
+package Etc;
+
 public class Date3_30_1 {//서식지정 자릿수 맞추기
     public static void main(String[] args) {
         System.out.printf("%d\n", 123);//정수형 서식 활용

@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;//괄호 무조건 쓰기
 
 public class Date3_30_5 {

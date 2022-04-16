@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;
 
 public class Date3_31_3 {//단을 입력받는 구구단

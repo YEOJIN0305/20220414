@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;
 
 public class Date4_5_1 {//A와 B의 값을 비교하는 프로그램 - 백준

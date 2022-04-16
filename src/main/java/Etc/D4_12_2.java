@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;
 
 public class D4_12_2 {//합 구하는거 곱으로 + while문

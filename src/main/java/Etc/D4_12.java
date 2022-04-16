@@ -1,3 +1,5 @@
+package Etc;
+
 import java.util.Scanner;
 
 public class D4_12 {
