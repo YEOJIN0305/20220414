@@ -1,6 +1,8 @@
+package Codeup;
+
 import java.util.Scanner;
 
-public class C1075 {
+public class C1074 {
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
@@ -8,9 +10,8 @@ public class C1075 {
 
         while(a!=0){
 
-            --a;
             System.out.println(a);
-
+            a--;
         }
     }
 }
