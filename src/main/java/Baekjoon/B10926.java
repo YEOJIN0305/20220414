@@ -1,3 +1,5 @@
+package Baekjoon;
+
 import java.util.Scanner;
 
 public class B10926 {//백준 입력받은 아이디 오류표시
