@@ -10,10 +10,20 @@ public class D0518_1 {
 
         List<Map<String, String>> list = new ArrayList<>();
 
-        List<Map<String, String>> list2 = new ArrayList<>();
-
         Map<String, String> map = new HashMap<>();
+
         map.put("name", "이협건");
         map.put("dept", "데이터분석");
+
+        list.add(map);
+
+
+        map = new HashMap<>();
+
+        map.put("name", "홍길동");
+        map.put("dept", "정보보안");
+
+        list.add(map);
+
     }
 }
